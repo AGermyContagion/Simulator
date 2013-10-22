@@ -20,5 +20,3 @@ public class Simulator {
     }
     
 }
-
-IF you can see this, then my faimliy is already deaplease help me i'm going to dieoverhereifi cantgetmy pantson
