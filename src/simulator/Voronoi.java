@@ -43,8 +43,4 @@ public class Voronoi {
     public ArrayList getPoints() {
         return this.points;
     }
-    
-    public int getPointsSize() {
-        return this.points.size();
-    }
 }
